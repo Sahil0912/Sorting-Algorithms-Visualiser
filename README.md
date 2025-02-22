@@ -49,7 +49,7 @@ or if using aur/yay :
 ```bash
 yay -S sdl2 sdl2_ttf make
 ```
-## Compilation
+## Compilation and run
 
 ```bash
 make
